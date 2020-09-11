@@ -1,4 +1,4 @@
-# Bike-fare-prediction-project
+# Bike-Rental count-prediction-project
 Problem Statement: The project is about a bike rental company who has its historical data. The goal is to build a models which predicts the count of bike rentals based on the seasonal and environmental settings. 
 These predicted values would help the business to meet the demand on those particular days by being prepared for high demand of bikes during peak periods.
 Contents
